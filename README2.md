@@ -10,10 +10,9 @@
 * task_editing dosyasindaki methodlarin task_id haricindeki parametreler sablondaki sekilde yazilsin daha sonra chief dosyasinda atamalari yapilacak
 
 # GOREV DAGILIMI
-
-task_editing => Ramazan Bey
-task_tracking => Hanife Hanim
-task_management => Melike Hanim
+* task_editing => Ramazan Bey,
+* task_tracking => Hanife Hanim,
+* task_management => Melike Hanim,
 
 
 
